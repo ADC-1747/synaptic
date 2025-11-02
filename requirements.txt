@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+websockets
+pandas
+numpy
+ta
+aiokafka
+aiofiles
+pydantic
+pytest
+pytest-asyncio
+httpx
+locust
+locust-plugins
+nautilus-trader
