@@ -1,3 +1,5 @@
 .env
 opencode.json
 synaptic-venv/
+__pycache__/
+.pytest_cache/
