@@ -1,0 +1,2 @@
+- Most of the code for FastAPI services was correct, verified by manual test and pytest.
+- The code for nautilus_trade was mostly outdated so had to refer official documentation for verification.
