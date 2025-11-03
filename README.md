@@ -11,3 +11,9 @@ Just run the run_tests_linux.sh or run_tests_windows.bat depending on you OS.
 
 ## How to run nautilus_trader based backtest - 
 Just run the run_backtest_linux.sh or run_backtest_windows.bat depending on you OS. After the backtest the results will be stored in the backtest_results directory.
+
+## Task 3 and 4 have been included in the docs directory.
+
+
+## The prompts have been included in the prompts directory.
+
