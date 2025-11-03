@@ -1,12 +1,12 @@
 {
-    "PnL (total)": -12.74,
-    "PnL% (total)": -0.0012739999999990686,
-    "Max Winner": -2.02,
+    "PnL (total)": -21.03,
+    "PnL% (total)": -0.002103000000002794,
+    "Max Winner": -1.96,
     "Avg Winner": 0.0,
     "Min Winner": 0.0,
-    "Min Loser": -2.02,
-    "Avg Loser": -2.1233333333333335,
-    "Max Loser": -2.18,
-    "Expectancy": -2.1233333333333335,
+    "Min Loser": -1.96,
+    "Avg Loser": -2.103,
+    "Max Loser": -2.19,
+    "Expectancy": -2.103,
     "Win Rate": 0.0
 }
